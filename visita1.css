@@ -1,0 +1,49 @@
+
+h3{
+    font-weight: bold; 
+    padding: 10px; 
+    border: 2px solid #abecf9; 
+    border-radius: 6px;
+    background-color: #D1E9F6;
+    box: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+
+h2, h3, h4, figure, iframe {
+    text-align: center;
+}
+
+.map-container{
+    text-align: center;
+    
+}
+
+img{
+    border-radius: 20px;
+}
+
+p{
+    padding: 50px;
+    font-family: Arial;
+ 
+}
+
+.col{
+    text-align: justify;
+}
+
+.container {
+    text-align: center; /* Centra el contenido dentro del contenedor */
+  }
+
+
+
+
+
+#maps{
+    text-align: center;
+}
+

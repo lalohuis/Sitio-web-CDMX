@@ -1,0 +1,20 @@
+.formulario {
+    padding: 10px;
+    border: 3px solid #DFD3C3;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h3, h2 {
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
